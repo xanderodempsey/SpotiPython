@@ -5,5 +5,6 @@ Requires spotipy, a Python library for the Spotify API
 Install Spotipy by going to https://github.com/plamere/spotipy:
 
 `Clone the repo`
+
 `python setup.py install`
 
